@@ -17,7 +17,7 @@
    mvn clean package
 3. Запустите программу:
    ```bash
-   java -jar target/java-shift-1.0-SNAPSHOT.jar --input=input.txt --output=console --sort=name --order=asc
+   java -jar target/shift-1.0-SNAPSHOT.jar --input=input.txt --output=console --sort=name --order=asc
 
 ### Параметры командной строки
 --input=<файл>: Путь к входному файлу (по умолчанию input.txt).
